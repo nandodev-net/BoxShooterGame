@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\gonza\\Desktop\\MSUGameDev Spec\\1-Introduction to Game Development\\3- Box Shooter Game\\BoxShooterGame\\Assembly-CSharp-Editor-firstpass.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
